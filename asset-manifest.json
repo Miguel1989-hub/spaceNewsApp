@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spaceNewsApp/static/css/main.003c0126.css",
+    "main.js": "/spaceNewsApp/static/js/main.3f935d3a.js",
+    "static/media/logo.png": "/spaceNewsApp/static/media/logo.c0973fbb51a3c2bbbaab.png",
+    "index.html": "/spaceNewsApp/index.html",
+    "main.003c0126.css.map": "/spaceNewsApp/static/css/main.003c0126.css.map",
+    "main.3f935d3a.js.map": "/spaceNewsApp/static/js/main.3f935d3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.003c0126.css",
+    "static/js/main.3f935d3a.js"
+  ]
+}
