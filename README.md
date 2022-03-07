@@ -1,6 +1,7 @@
 # SpaceFlightNews. Front-End challenge da Coodesh;
 
 Live: https://miguel1989-hub.github.io/spaceNewsApp/
+
 Demonstração: https://www.loom.com/share/be2627742ffb431ea3a2f4cde81b5ffb
 
 Desafio de Front-End idealizado pela Coodesh, que consiste na elaboração de uma aplicação web utilizando a Biblioteca ReactJs para consumir dados da API SpaceFlightNews, observando uma série de padrões especificados no projeto. 
