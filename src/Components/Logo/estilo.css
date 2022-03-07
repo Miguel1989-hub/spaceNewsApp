@@ -1,0 +1,39 @@
+
+
+.container_meio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contaner_meio-logo { 
+  width: 200px;
+  height: 200px;
+  border: solid 1px #302e53;
+  border-radius: 100%;
+}
+
+.contaner_meio-logo { 
+  width: 235px;
+  height: 200px;
+  border: solid 1px #302e53;
+  border-radius: 100%;
+}
+.contaner_meio-logo img { 
+  margin-left: 35px;
+  width: 150px;
+  height: 150px;
+  margin-top: 25px;
+}
+
+
+.container_meio-titulo h1{
+  letter-spacing: 4px;
+  font-size: 32px;
+}
+
+.linha {
+  color: #302e53;
+  margin-top: 10px;
+}

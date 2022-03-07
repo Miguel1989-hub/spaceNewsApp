@@ -1,0 +1,46 @@
+.container-topo {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100px;
+  }
+  
+  .divBusca {
+    margin-right: 20px;
+    padding: 10px;
+    height: 30px;
+    width: 230px;
+    border: solid 2px #302e53;
+    border-radius: 15px;
+  }
+  
+  .txtBusca {
+    height: 30px;
+    width: 200px;
+    border: none;
+    outline: 0;
+    font-size: 16px;
+  }
+  
+  .icone-busca {
+    height: 40px;
+  }
+  
+  .filtro {
+    margin-right: 25px;
+    padding: 10px;
+  }
+  
+  .filtro_select {
+    width: 120px;
+    height: 55px;
+    border: solid 2px #302e53;
+    border-radius: 15px;
+    background-color: white;
+    font-size: 16px;
+    outline: 0;
+  }
+
+  .filtro_select option {
+    text-align: center;
+  }

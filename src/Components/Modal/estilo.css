@@ -1,0 +1,49 @@
+.modal {
+    display: flex;
+    justify-content: space-between;
+    border-color: #302E53;
+}
+
+.modal__img {
+    width: 200px;
+    height: 200px;
+}
+
+.modal__img img{
+    width: 200px;
+    height: 200px;
+}
+
+.modal__info {
+    width: 400px;
+    height: 200px;
+}
+
+.modal__btn {
+    height: 30px;
+    width: 110px;
+    background: #D07017 ;
+    border-color: #D07017 ;
+    border-radius: 8px;
+   
+}
+
+.modal__btn a{
+    text-decoration: none;
+    color: #302E53;
+    font-weight: bold;
+}
+
+.btn-principal {
+    border-radius: 8px;
+    background: #D07017 ;
+    border: #D07017 ;
+    color: #302E53;
+    font-weight: bold;
+    height: 20px;
+    width: 90px;
+}
+
+.btn-principal:hover{
+    cursor: pointer;
+}

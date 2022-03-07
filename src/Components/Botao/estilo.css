@@ -1,0 +1,18 @@
+.btn_mostrar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100px;
+    padding-bottom: 30px;
+  
+  }
+  
+  .btn_mostrar button {
+    height: 30px;
+    border-color: #302E53;
+    background-color: #D07017;
+    color: #302E53;
+    font-weight: bold;
+    border-radius: 8px;
+  }
